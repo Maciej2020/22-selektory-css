@@ -1,0 +1,11 @@
+.tytul{
+    background: greenyellow;
+}
+.naglowek{
+    background: brown;
+}
+.paragraf{color: orangered;}
+
+h1 + h3{
+    color: white;
+}
